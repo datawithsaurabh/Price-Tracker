@@ -217,13 +217,13 @@ Home → Refresh
 
 **Saurabh Shivkriti**
 
-📧 saurabhshivkriti1001@gmail.com
+📧 saurabhshivkriti@gmail.com
 
 💼 Aspiring Data Analyst
 
-🔗 LinkedIn: *(Add your LinkedIn profile)*
+🔗 LinkedIn: *(https://in.linkedin.com/in/saurabh-shivkriti)*
 
-🌐 Portfolio: *(Add your portfolio website)*
+🌐 Portfolio: https://saurabbhshivkriti.in/
 
 ---
 
