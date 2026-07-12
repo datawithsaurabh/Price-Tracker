@@ -1,61 +1,80 @@
+<div align="center">
+
 # 🛒 Price Tracker Dashboard
 
-An end-to-end **Price Tracking & Comparison System** built using **Python, Playwright, SQL, Excel, and Power BI**. The project automatically scrapes product prices from **Amazon** and **Flipkart**, stores the data, compares prices, tracks historical changes, and visualizes insights in an interactive Power BI dashboard.
+### 🚀 End-to-End E-Commerce Price Tracking & Analytics System
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=0B84F3&center=true&vCenter=true&width=850&lines=Python+%7C+Playwright+%7C+SQLite+%7C+Power+BI;Amazon+%26+Flipkart+Price+Tracker;Interactive+Business+Analytics+Dashboard;Data+Analyst+Portfolio+Project" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Playwright-Web%20Scraping-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite"/>
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Repository+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 📊 Dashboard Preview
+# 📖 Project Overview
 
-> Add your dashboard screenshot here.
+This project is an **End-to-End E-Commerce Price Tracking System** that automatically collects product prices from **Amazon** and **Flipkart** using **Python + Playwright**, stores and compares the data, maintains historical records, and visualizes business insights using **Power BI**.
 
-![Dashboard Preview](Price-Tracker/screenshots/dashboard.png))
+The dashboard enables users to compare prices across platforms, identify the cheapest platform, monitor historical changes, and make data-driven purchasing decisions.
 
 ---
 
-## 🚀 Features
+# 📊 Dashboard Preview
 
-- 🔍 Scrapes live product prices from Amazon & Flipkart
-- 📦 Supports multiple products from Excel input
+<div align="center">
+
+<img src="Price-Tracker/screenshots/dashboard.png" width="1000"/>
+
+</div>
+
+---
+
+# ✨ Features
+
+- 🔍 Live Amazon Price Scraping
+- 🛒 Live Flipkart Price Scraping
 - 📊 Interactive Power BI Dashboard
-- 💰 Amazon vs Flipkart price comparison
-- 📈 Price history tracking
-- 🔔 Price difference analysis
-- 📂 SQL database integration
-- 🎯 Interactive filters by Brand, Category & Cheapest Platform
-- 📉 Brand-wise average price analysis
-- 🥧 Category distribution analysis
-- 📋 Product comparison table with conditional formatting
+- 📈 Historical Price Tracking
+- 💰 Amazon vs Flipkart Comparison
+- 📉 Price Difference Analysis
+- 📂 SQLite Database Integration
+- 📋 Product Comparison Table
+- 🎯 Dynamic Filters
+- 📊 KPI Cards
+- 📦 Brand-wise Analysis
+- 🥧 Category Distribution
+- 💡 Business Insights
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Programming
+<p align="center">
 
-- Python
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode"/>
 
-### Data Processing
+</p>
 
-- Pandas
-- OpenPyXL
-
-### Web Scraping
-
-- Playwright
-
-### Database
-
-- SQLite
-
-### Data Visualization
-
-- Microsoft Power BI
-
-### Other Tools
-
-- Microsoft Excel
-- Git
-- GitHub
+| Technology | Purpose |
+|------------|---------|
+| Python | Automation & Web Scraping |
+| Playwright | Product Price Scraping |
+| Pandas | Data Cleaning & Processing |
+| SQLite | Data Storage |
+| Excel | Product List |
+| Power BI | Dashboard & Analytics |
+| Git & GitHub | Version Control |
 
 ---
 
@@ -95,13 +114,13 @@ Price-Tracker/
 
 ---
 
-# ⚙️ Workflow
+# ⚙ Workflow
 
 ```text
 Products.xlsx
         │
         ▼
-Python Scraper
+Python Web Scraper
 (Amazon + Flipkart)
         │
         ▼
@@ -121,11 +140,11 @@ Power BI Dashboard
 
 # 📈 Dashboard KPIs
 
-- Total Products
-- Average Amazon Price
-- Average Flipkart Price
-- Highest Product Price
-- Average Price Difference
+- 📦 Total Products
+- 🛒 Average Amazon Price
+- 🛍 Average Flipkart Price
+- 💰 Highest Product Price
+- 📊 Average Price Difference
 
 ---
 
@@ -146,7 +165,7 @@ Power BI Dashboard
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Price-Tracker.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/Price-Tracker.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -161,15 +180,19 @@ pip install -r requirements.txt
 python run_all.py
 ```
 
-### 4️⃣ Refresh Power BI Dashboard
+### 4️⃣ Update Price History
 
-Open:
+```bash
+python history.py
+```
+
+### 5️⃣ Open Power BI Dashboard
 
 ```
 dashboard/price_tracker_dashboard.pbix
 ```
 
-Click:
+### 6️⃣ Refresh Dashboard
 
 ```
 Home → Refresh
@@ -179,13 +202,14 @@ Home → Refresh
 
 # 📌 Future Improvements
 
-- Email Price Alerts
-- Telegram Notifications
-- Daily Scheduled Scraping
-- Streamlit Web Application
-- MySQL Integration
-- Cloud Deployment
-- Historical Price Trend Dashboard
+- 📧 Email Price Alerts
+- 📱 Telegram Notifications
+- ⏰ Automatic Daily Scheduling
+- 🌐 Streamlit Web Application
+- ☁ Cloud Deployment
+- 🗄 MySQL Integration
+- 📈 Historical Trend Analysis
+- 📊 Advanced Business Analytics
 
 ---
 
@@ -197,4 +221,14 @@ Home → Refresh
 
 💼 Aspiring Data Analyst
 
-⭐ If you like this project, don't forget to give it a star.
+🔗 LinkedIn: *(Add your LinkedIn profile)*
+
+🌐 Portfolio: *(Add your portfolio website)*
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project useful, don't forget to Star this Repository ⭐
+
+</div>
