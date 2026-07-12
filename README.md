@@ -221,7 +221,7 @@ Home → Refresh
 
 💼 Aspiring Data Analyst
 
-🔗 LinkedIn: *(https://in.linkedin.com/in/saurabh-shivkriti)*
+🔗 LinkedIn: https://in.linkedin.com/in/saurabh-shivkriti
 
 🌐 Portfolio: https://saurabbhshivkriti.in/
 
