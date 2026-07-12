@@ -8,7 +8,7 @@ An end-to-end **Price Tracking & Comparison System** built using **Python, Playw
 
 > Add your dashboard screenshot here.
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Price-Tracker/screenshots/dashboard.png))
 
 ---
 
